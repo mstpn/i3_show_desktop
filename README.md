@@ -36,3 +36,7 @@ The keybinding to toggle the desktop is `$mod + Shift + d`
 ## Limitations
 
 This has only been tested on Arch Linux 5.17.5-arch1-1 using Python 3.10.4.
+
+## License
+
+i3_show_desktop is released under the [MIT License](https://opensource.org/licenses/MIT).
